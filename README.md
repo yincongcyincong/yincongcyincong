@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Contribution Stats](https://gh-stats.zekker-dev.tk/?username=yincongcyincong&theme=dark)](https://github.com/yincongcyincong)
 
 
 ### frontend
