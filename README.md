@@ -17,7 +17,6 @@
 
 
 ### introduction
- 🔭 I’m currently working on baidu    
  🌱 I’m currently learning web3, english  
  🤔 I’m looking for help with     
  💬 Ask me about javascript, java, golang, php, react    
