@@ -1,25 +1,32 @@
-[![Contribution Stats](https://gh-stats.zekker-dev.tk/?username=yincongcyincong&theme=dark)](https://github.com/yincongcyincong)
+# Hi there, I'm Yincong! 👋
 
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here you'll find a collection of my projects, contributions, and some of my favorite technologies.
 
-### frontend
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+## 🚀 About Me
 
-### backend
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+- 🌱 I’m currently learning advanced algorithms and data structures.
+- 👯 I’m looking to collaborate on interesting open-source projects.
+- 💬 Ask me about Golang, Java, JavaScript, and web development.
+- 📫 How to reach me: [yincong0822@gmail.com](mailto:yincong0822@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
+## 🛠️ Technologies & Tools
 
+- **Languages:** Golang, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker
 
+## 📈 GitHub Stats
 
-### introduction
- 🌱 I’m currently learning web3, english  
- 🤔 I’m looking for help with     
- 💬 Ask me about javascript, java, golang, php, react    
- 📫 How to reach me: yincong0822@gmail.com
+![Yincong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yincongcyincong&show_icons=true&theme=radical)
 
+## 📊 Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yincongcyincong&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+- LinkedIn: [Yincong's LinkedIn](https://www.linkedin.com/incareer/in/jack-yin0822)
+
+Thank you for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting. Happy coding! 😊
