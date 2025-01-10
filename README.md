@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Golang, JavaScript, Java, C++
+- **Languages:** Golang, JavaScript, Java
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker
