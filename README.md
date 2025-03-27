@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yincongcyincong&color=green)
 # Hi there, I'm Yincong! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here you'll find a collection of my projects, contributions, and some of my favorite technologies.
@@ -28,4 +29,4 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 Thank you for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting. Happy coding! 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=yincongcyincong&color=green)
+
